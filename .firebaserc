@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mid-valley-chiro": {
+      "hosting": {
+        "mid-valley-chiropractic": [
+          "mid-valley-chiro"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mid-valley-chiro"
+  }
+}

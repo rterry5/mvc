@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "mid-valley-chiropractic",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
